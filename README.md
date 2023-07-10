@@ -1,2 +1,2 @@
 # wit-bootcamp
-my project for WIT summer 2023
+my project for WIT Summer 2023
